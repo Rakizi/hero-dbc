@@ -1,2 +1,4 @@
-HeroDBC.DBC.metaVersion = "11.0.2.56625"
-HeroDBC.DBC.metaTime = "2024-09-17T12:06:10.124575"
+local _, NAG = ...
+
+NAG.DBC.metaVersion = "4.4.1.56859"
+NAG.DBC.metaTime = "2024-10-05T12:49:45.561628"

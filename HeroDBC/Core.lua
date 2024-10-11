@@ -1,8 +1,7 @@
 --- ============================ HEADER ============================
 --- ======= LOCALIZE =======
 -- Addon
-local addonName, HDBC = ...
+local addonName, NAG = ...
 
---- ======= GLOBALIZE =======
-HeroDBC = HDBC
-HDBC.DBC = {}
+NAG.DBC = {}
+
