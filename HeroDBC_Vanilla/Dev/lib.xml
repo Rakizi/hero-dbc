@@ -1,0 +1,19 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/FrameXML/UI.xsd">
+	<Script file="DEV\Core.lua" />
+	<Script file="Dev\Unfiltered\ItemRange.lua" />
+	<Script file="Dev\Filter\ItemRange.lua" />
+	<Script file="Dev\Lib\json.lua" />
+	<Script file="DBC\Meta.lua.lua" />
+	<Script file="DBC\ItemRange.lua" />
+	<Script file="DBC\ItemSpell.lua" />
+	<Script file="DBC\SpellAuraStat.lua" />
+	<Script file="DBC\SpellConduits.lua" />
+	<Script file="DBC\SpellDuration.lua" />
+	<Script file="DBC\SpellEnchants.lua" />
+	<Script file="DBC\SpellGCD.lua" />
+	<Script file="DBC\SpellMeleeRange.lua" />
+	<Script file="DBC\SpellProjectileSpeed.lua" />
+	<Script file="DBC\SpellRPPM.lua" />
+	<Script file="DBC\SpellTickTime.lua" />
+
+</Ui>
